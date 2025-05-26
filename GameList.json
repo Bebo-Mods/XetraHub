@@ -1,5 +1,14 @@
-[
-  "Game Name 1",
-  "Game Name 2",
-  "Game Name 3"
-]
+return {
+    { name = "Adopt Me", id = "920587237" },
+    { name = "Brookhaven RP", id = "4924922222" },
+    { name = "Arsenal", id = "286090429" },
+    { name = "Blox Fruits", id = "2753915549" },
+    { name = "Jailbreak", id = "606849621" },
+    { name = "Mad City", id = "1224212277" },
+    { name = "Pet Simulator X", id = "6284583030" },
+    { name = "Tower of Hell", id = "1962086868" },
+    { name = "Murder Mystery 2", id = "142823291" },
+    { name = "Da Hood", id = "2788229376" },
+    { name = "Anime Fighters Simulator", id = "4282985734" },
+    { name = "Build A Boat For Treasure", id = "537413528" }
+}
