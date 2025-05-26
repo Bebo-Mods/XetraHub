@@ -1,14 +1,8 @@
 return {
-    { name = "[🌋]Build An Island! 🏝️", id = "101949297449238" },
-    { name = "Brookhaven RP", id = "4924922222" },
-    { name = "Arsenal", id = "286090429" },
-    { name = "Blox Fruits", id = "2753915549" },
-    { name = "Jailbreak", id = "606849621" },
-    { name = "Mad City", id = "1224212277" },
-    { name = "Pet Simulator X", id = "6284583030" },
-    { name = "Tower of Hell", id = "1962086868" },
-    { name = "Murder Mystery 2", id = "142823291" },
-    { name = "Da Hood", id = "2788229376" },
-    { name = "Anime Fighters Simulator", id = "4282985734" },
-    { name = "Build A Boat For Treasure", id = "537413528" }
+    { name = "Build An Island", id = "101949297449238" },
+    { name = "Dangerous Night Furnish The Bunker", id = "109686116036889" },
+    { name = "Mines", id = "94725155944518" },
+    { name = "Skinwalkers", id = "94725155944518" },
+    { name = "Untitled Drill Game", id = "87700573492940" },
+    { name = "Grow a Garden", id = "126884695634066" }
 }
